@@ -8,7 +8,7 @@
 4. Click **Create → Database**
 5. Enter a name (for example `streaming_system_copy`)
 6. Click **Save**
-7. Save this file "Streaming db backup"
+7. Save this file "streaming_system.backup" ### AND DON'T OPEN IT AFTER DOWNLOAD 
 
 ---
 
