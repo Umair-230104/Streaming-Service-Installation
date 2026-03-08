@@ -1,4 +1,4 @@
-### Restore a `.backup` file in pgAdmin (PostgreSQL)
+### Installtion Guide for our DB 
 
 **1. Create a new database**
 
@@ -8,6 +8,7 @@
 4. Click **Create → Database**
 5. Enter a name (for example `streaming_system_copy`)
 6. Click **Save**
+7. Save this file "Streaming db backup"
 
 ---
 
